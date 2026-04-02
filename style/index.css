@@ -1,3 +1,7 @@
 #contenitore-lampadina{
     height:100vh;
+    
+}
+#contenitore-lampadina > div {
+    border:2px solid black;
 }
